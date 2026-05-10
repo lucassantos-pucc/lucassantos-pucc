@@ -12,7 +12,7 @@ Aqui estão os projetos desenvolvidos ao decorrer do curso de Engenharia de Soft
   <img width="400px" src="https://streak-stats.demolab.com/?user=lucassantos-pucc&theme=vue-dark" />
 </p>
 
-## Conta Oficial
+## Conta Principal
 
 <a href="https://github.com/lucas-santos0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-27ae60?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
