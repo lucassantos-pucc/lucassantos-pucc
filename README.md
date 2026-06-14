@@ -9,15 +9,28 @@ Aqui estão os projetos desenvolvidos ao decorrer do curso de Engenharia de Soft
 </p>
 
 <p align="center">
-  <img width="400px" src="https://streak-stats.demolab.com/?user=lucassantos-pucc&theme=vue-dark" />
+  <img width="400px" src="https://streak-stats.demolab.com?user=lucassantos-pucc&theme=vue-dark&hide_border=true" />
+  
 </p>
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lucassantos-pucc&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true"
+    width="370px"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassantos-pucc&layout=compact&langs_count=5&theme=vue-dark&hide_border=true"
+    width="400px"
+  />
+</p>
+  
 
 ## Conta Principal
 
 <a href="https://github.com/lucas-santos0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-27ae60?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-
 
 </div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0b3d2e,100:2ecc71&section=footer&animation=fadeIn" />
