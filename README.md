@@ -9,7 +9,7 @@ Aqui estão os projetos desenvolvidos ao decorrer do curso de Engenharia de Soft
 </p>
 
 <p align="center">
-  <img width="400px" src="https://streak-stats.demolab.com?user=lucassantos-pucc&theme=vue-dark&hide_border=true" />
+  <img width="600px" src="https://streak-stats.demolab.com?user=lucassantos-pucc&theme=vue-dark&hide_border=true" />
   
 </p>
 
