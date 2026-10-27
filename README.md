@@ -17,7 +17,7 @@ Aqui estão os projetos desenvolvidos ao decorrer do curso de Engenharia de Soft
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=lucassantos-pucc&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true"
-    width="370px"
+    width="525px"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassantos-pucc&layout=compact&langs_count=5&theme=vue-dark&hide_border=true"
